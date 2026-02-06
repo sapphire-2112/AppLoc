@@ -1,4 +1,4 @@
-# Android Live Location Sharing (GitHub-Based)
+# Android Live Location Sharing 
 
 ## Overview
 
